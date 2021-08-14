@@ -1,4 +1,4 @@
-# voting
+# polling
 
 ## Project setup
 ```
